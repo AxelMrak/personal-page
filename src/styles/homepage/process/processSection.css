@@ -1,0 +1,39 @@
+/* Fonts */
+/* Sizes */
+/* Weight font */
+.process-section-container {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.process-section-texts {
+  color: white;
+  text-align: center;
+  max-width: 30%;
+}
+
+.process-section-texts h2 {
+  font-family: "Open Sans", -apple-system, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 700;
+}
+
+.process-section-texts p {
+  font-family: "Source Sans Pro", -apple-system, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+@media (max-width: 767.98px) {
+  .process-section-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 1rem;
+  }
+  .process-section-texts {
+    max-width: 85%;
+  }
+}/*# sourceMappingURL=processSection.css.map */

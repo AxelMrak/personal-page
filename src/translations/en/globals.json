@@ -1,0 +1,48 @@
+{
+	"header": {
+		"nav_1": "Home",
+		"nav_2": "Services",
+		"nav_3": "My jobs",
+		"nav_4": "About me",
+		"nav-btn": "Contact me",
+		"nav-btn-message": "Hi,%20I'm%20contacting%20you%20from%20your%20webpage.%20Can%20you%20give%20me%20more%20information?"
+	},
+	"main-section": {
+		"title": "Get your webpage for launch your brand to the web",
+		"text": "I offer design services and webpage develop. To improve the position of your brand on the web, I use the best technologies and SEO techniques available."
+	},
+	"process-section": {
+		"title": "How is the process?",
+		"text": "First, we'll collect your requirements so we know what you want on the page. Second, I will create the page designs and models. As soon as you approve the design, I will begin developing the webpage. During all process you can follow the progress."
+	},
+	"services-section": {
+		"title": "Services",
+		"service-title_1": "Brand's image",
+		"service-text_1": "I can give you everything you need to get started with your brand. Color palettes and fonts are included.",
+		"service-title_2": "Design",
+		"service-text_2": "We design your website based in your brand's image.",
+		"service-title_3": "Development",
+		"service-text_3": "We develop your website with the best technologies available on the market.",
+		"techs": "Technologies used"
+	},
+	"jobs-section": {
+		"title": "My jobs and projects",
+		"job-title_1": "LeChic Store",
+		"job-title_2": "Transfers services OnlineTransfers",
+		"job-title_3": "Encryptor",
+		"job-title_4": "VAT Calculator",
+		"job-title_5": "Personal portfolio",
+		"job-btn": "Visit the site"
+	},
+	"contact-section": {
+		"title": "Contact me and tell me your ideas for your website",
+		"button": "Contact me"
+	},
+	"about-page": {
+		"title": "About me",
+		"description": "This is me! My name is Axel Sarmiento, and I am from Argentina. I am dedicated to Front-end development. My studies are based largely on self-taught through my research and another part at the hands of the Spanish OpenBootCamp academy, I have also studied Psychology at the university and Philosophy in a self-taught way. I also speak Spanish, English, and Italian."
+	},
+	"footer": {
+		"mark": "Made with ❤️ by Axel Sarmiento"
+	}
+}

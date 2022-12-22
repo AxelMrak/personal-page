@@ -1,0 +1,40 @@
+@import '../../mixins';
+@import '../../variables';
+
+.process-section-container {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.process-section-texts {
+  color: white;
+  text-align: center;
+  max-width: 30%;
+}
+
+.process-section-texts h2 {
+  font-family: $title-subtitle;
+  font-size: $subtitle-size;
+  font-weight: $title-weight;
+}
+
+.process-section-texts p {
+  font-family: $text;
+  font-size: $text-size;
+  font-weight: $text-weight;
+}
+
+@include small() {
+  .process-section-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 1rem;
+  }
+
+  .process-section-texts {
+    max-width: 85%;
+  }
+}

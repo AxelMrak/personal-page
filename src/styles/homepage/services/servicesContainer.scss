@@ -1,0 +1,37 @@
+@import '../../mixins';
+@import '../../variables';
+
+.services-section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 1rem;
+  margin: 4rem;
+}
+
+.services-section-texts h2{
+  font-family: $title-subtitle;
+  font-size: $subtitle-size;
+  font-weight: $title-weight;
+  color: white;
+}
+
+.services-section-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+@include small() {
+  .services-section-container {
+    
+  }
+  .services-section-items {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 2rem;
+  }
+}

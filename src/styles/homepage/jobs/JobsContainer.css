@@ -1,0 +1,35 @@
+/* Fonts */
+/* Sizes */
+/* Weight font */
+.jobs-section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.jobs-section-container h2 {
+  color: white;
+  font-family: "Open Sans", -apple-system, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 700;
+}
+
+.mySwiper {
+  width: 50%;
+  text-align: center;
+}
+
+.swiper-slide {
+  padding: 3rem;
+}
+
+@media (max-width: 767.98px) {
+  .jobs-section-container {
+    padding: 1rem;
+  }
+  .mySwiper {
+    width: 100%;
+  }
+}/*# sourceMappingURL=jobsContainer.css.map */

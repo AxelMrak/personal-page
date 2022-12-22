@@ -1,0 +1,6 @@
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 50vh;
+  max-height: 100%;
+}/*# sourceMappingURL=homePage.css.map */

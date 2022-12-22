@@ -1,0 +1,47 @@
+/* Fonts */
+/* Sizes */
+/* Weight font */
+.job-unit-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 1s;
+}
+
+.job-unit-container:hover {
+  transform: scale(1.1);
+  margin: 1rem;
+}
+
+.job-unit-container h3 {
+  color: white;
+  font-family: "Open Sans", -apple-system, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 700;
+}
+
+.job-unit-container a {
+  color: white;
+  font-family: "Source Sans Pro", -apple-system, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding: 0.7rem;
+  margin: 1rem;
+  background-color: #5c00b3;
+  border-radius: 25px;
+  transition: all 1s;
+}
+
+.job-unit-container a:hover {
+  color: #5c00b3;
+  background-color: white;
+  transform: scale(1.1);
+}
+
+@media (max-width: 767.98px) {
+  .job-unit-container img {
+    width: 200px;
+    height: 200px;
+  }
+}/*# sourceMappingURL=jobUnit.css.map */

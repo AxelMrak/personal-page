@@ -1,0 +1,47 @@
+@import '../../mixins';
+@import '../../variables';
+
+.job-unit-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 1s;
+}
+
+.job-unit-container:hover {
+  transform: scale(1.1);
+  margin: 1rem;
+}
+
+.job-unit-container h3 {
+  color: white;
+  font-family: $title-subtitle;
+  font-size: $subtitle-size;
+  font-weight: $title-weight;
+}
+
+.job-unit-container a {
+  color: white;
+  font-family: $text;
+  font-size: $text-size;
+  font-weight: $text-weight;
+  padding: 0.7rem;
+  margin: 1rem;
+  background-color: #5c00b3;
+  border-radius: 25px;
+  transition: all 1s;
+}
+
+.job-unit-container a:hover {
+  color: #5c00b3;
+  background-color: white;
+  transform: scale(1.1);
+}
+
+@include small() {
+  .job-unit-container img {
+    width: 200px;
+    height: 200px;
+  }
+}

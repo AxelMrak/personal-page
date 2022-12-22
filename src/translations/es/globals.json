@@ -1,0 +1,48 @@
+{
+	"header": {
+		"nav_1": "Inicio",
+		"nav_2": "Servicios",
+		"nav_3": "Mis trabajos",
+		"nav_4": "Sobre mí",
+		"nav-btn": "Contáctame",
+		"nav-btn-message": "Hola,%20me%20comunico%20desde%20tu%20página%20web.%20¿Me%20puede%20dar%20más%20información?"
+	},
+	"main-section": {
+		"title": "Obtén la página web para que lanzar tu negocio a la web",
+		"text": "Ofrezo servicios de diseño y desarrollo de páginas web. Para mejorar el posicionamiento y visibilidad de tu marca utilizo técnicas de SEO."
+	},
+	"process-section": {
+		"title": "¿Cómo es el proceso?",
+		"text": "Primero, hablaremos de los requerimientos que tengas para tu página. Luego, haré diseños y modelos. Si apruebas los diseños, comenzaremos con la fase de desarrollo del sitio web. Durante todo el proceso podrás seguir los avances."
+	},
+	"services-section": {
+		"title": "Servicios",
+		"service-title_1": "Identidad visual",
+		"service-text_1": "Puedo proveerte de lo necesario para comenzar con tu marca. Esto incluye paleta de colores y fuentes.",
+		"service-title_2": "Diseño",
+		"service-text_2": "Diseñaremos tu sitio web en base a tu identidad visual.",
+		"service-title_3": "Desarrollo",
+		"service-text_3": "Desarrollaremos tu sitio web con las mejores tecnologias disponibles en el mercado.",
+		"techs": "Tecnologías utilizadas"
+	},
+	"jobs-section": {
+		"title": "Mis trabajos y proyectos",
+		"job-title_1": "Tienda LeChic",
+		"job-title_2": "Servicio de transportes OnlineTransfers",
+		"job-title_3": "Encriptador",
+		"job-title_4": "Calculadora de IVA",
+		"job-title_5": "Portafolio personal",
+		"job-btn": "Visite el sitio"
+	},
+	"contact-section": {
+		"title": "Contáctame y cuentame las ideas que tienes para tu sitio web",
+		"button": "Contáctame"
+	},
+	"about-page": {
+		"title": "Sobre mí",
+		"description": "¡Este soy yo! Mi nombre es Axel Sarmiento, y soy de Argentina. Me dedico al desarrollo Front-end. Mis estudios se basan en una gran parte autodidacta a través de la propia investigación y otra parte de la mano de la academia española OpenBootCamp, también he estudiado Psicología en la universidad, y Filosofía de forma autodidacta. También hablo español, inglés e italiano. "
+	},
+	"footer": {
+		"mark": "Hecho con ❤️ por Axel Sarmiento"
+	}
+}
