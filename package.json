@@ -3,6 +3,7 @@
 	"private": true,
 	"version": "1.0.0",
 	"type": "module",
+	"homepage": "www.axelmrak.codes",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",
