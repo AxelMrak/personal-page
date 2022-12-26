@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { Parallax } from "react-scroll-parallax";
-import imgProcess from "../../assets/img/image-process.png";
+import imgProcess from "../../assets/img/image-process.webp";
 import "../../styles/homepage/process/processSection.css";
 import BackgroundGradient from "../globals/BackgroundGradient";
 

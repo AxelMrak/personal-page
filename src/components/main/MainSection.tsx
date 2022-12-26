@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { Parallax } from "react-scroll-parallax";
-import imgMain from "../../assets/img/Image Main.png";
+import imgMain from "../../assets/img/image-main.webp";
 import "../../styles/homepage/main/mainSection.css";
 import BackgroundGradient from "../globals/BackgroundGradient";
 
