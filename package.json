@@ -14,7 +14,6 @@
 		"react-dom": "^18.2.0",
 		"react-i18next": "^12.1.1",
 		"react-router-dom": "^6.5.0",
-		"react-router-sitemap-maker": "^1.1.0",
 		"react-scroll-parallax": "^3.3.2",
 		"swiper": "^8.4.5",
 		"vite-node": "^0.26.2"
