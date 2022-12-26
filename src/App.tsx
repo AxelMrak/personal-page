@@ -31,7 +31,6 @@ function App() {
 				<Route path="/about" element={<AboutPage/>} />
 				{/* 404 Not found page */}
 				<Route path="*" element={<h2>404: Pendiente</h2>} />
-				<Route path="/sitemap.xml" element='../public/sitemap.xml' />
 			</Routes>
 			<Footer />
 		</Router>
